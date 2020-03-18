@@ -1,0 +1,11 @@
+{
+  "name": "summoner-stats",
+  "version": "1.0.0",
+  "description": "Project to get stats for League of Legends summoners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
